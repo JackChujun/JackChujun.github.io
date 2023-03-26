@@ -1,2 +1,2 @@
-# JackChujun.github.io
+# jackchujun.github.io
 Personal Website
